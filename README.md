@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning AI engineering skills and techniques of explainable AI. I'm also chasing the latest updates of LLM.
+- 🤔 I’m looking for help with understanding how the AI products are built from 0 to a production-prepared enterprise product.
+- 👯 I’m looking for fellow learners - it would be a great fun if we discuss and try creating something (^ ^ /)
+- 📫 How to reach me: rui-su@outlook.com
+- 😄 Pronouns: she/they
